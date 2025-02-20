@@ -518,27 +518,6 @@ tr {
 
 
 @media (max-width: 1120px){
-	
-	/* .div1 img{
-		display: none;
-	}
-	.div2 img{
-		display: none;
-	}
-	.div2 p{
-		display: none;
-	}
-	.div3 img{
-		height: 70vh;
-	}
-	.meny p, .omoss p{
-		display: none;
-	}
-	.container{
-		display: flex;
-		justify-content: center;
-	} */
-
 	/* Om oss */
 	.container2 {
 		display: flex;
